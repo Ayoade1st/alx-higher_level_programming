@@ -4,4 +4,3 @@ alph = 97
 while alph < 123:
     print("{:c}".format(alph), end="")
     alph += 1
-
